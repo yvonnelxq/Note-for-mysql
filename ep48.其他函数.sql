@@ -1,0 +1,6 @@
+#其他函数 
+SELECT VERSION();
+SELECT DATABASE();
+SELECT USER();
+SELECT PASSWORD('返回该字符的密码形式');
+SELECT MD5('返回该字符的md5加密');
